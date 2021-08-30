@@ -1,0 +1,8 @@
+.wrapper {
+    margin: 0 64px;
+    padding: 64px;
+    max-width: 480px;
+}
+.card {
+    margin-bottom: 16px;
+}
